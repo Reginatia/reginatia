@@ -26,6 +26,10 @@ currently I'm focusing on HTML, CSS, GIT, JAVA SCRIPT, PYTHON, and JAVA. I'm in 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+## Articles and Blogs I'm reading
+- [Are Coders' Jobs At Risk? AI's Impact On The Future Of Programming (Forbes)](https://www.forbes.com/sites/sylvainduranton/2024/04/15/are-coders-jobs-at-risk-ais-impact-on-the-future-of-programming/)  
+- [What Does a Creative Technologist Do? (freeCodeCamp Blog)](https://www.freecodecamp.org/news/what-does-a-creative-technologist-do/?utm_source=chatgpt.com)  
+
 ## GitHub Stats
 ![Reginatia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reginatia&show_icons=true&theme=tokyonight)
 
@@ -35,3 +39,5 @@ currently I'm focusing on HTML, CSS, GIT, JAVA SCRIPT, PYTHON, and JAVA. I'm in 
 ## Connect With Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reginatiaamoah@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginatia-amoah)
+
+
