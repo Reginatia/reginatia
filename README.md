@@ -1,6 +1,6 @@
 ## Hi, I'm Reginatia Adutwumwaa Amoah
 
-📧Email: reginatiaamoah@gmail.com - Am happy to proceed everything with you so feel free o get in touch!
+📧Email: reginatiaamoah@gmail.com - If you need any help please feel free to get in touch!
 
 Sixth Former | Computer Science Enthusiast | I will like to Explore AI and Machine learning at university
 
